@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloFrog</string>
+    <string name="app_header">Frogify (plz Spotify dont sue me lol)</string>
+    <string name="intro">Tired of da government? Dunno who to vote cuz.. YOLO who cares bout politics? No stress, just Frogify urself and get da chance to c ur new King! </string>
+    <string name="label_name">Ur Name</string>
+    <string name="label_species">Ur New Species</string>
+    <string name="submit_button">C Da King</string>
+    <string name="activity_details">All Glory To Hypno Toad</string>
+    <string name="footer">..The developer after a week of Java.. (See Below)</string>
+    <string name="text_king_order">The Hypno Toad King orders you to spend your life catching mosquitos and flies! Fulfill your Destiny young padaw...ehm, toa...ehm, frog!</string>
+</resources>
